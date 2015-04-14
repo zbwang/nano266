@@ -60,8 +60,8 @@ your `.bash_profile` so that it will always be loaded for you when you login.
 Run the following command at the terminal to add the above settings for QuantumEspresso and NWChem.
 
 ```bash
-echo "module load qe nwchem python" >> .bash_profile
-echo "export NWCHEM_BASIS_LIBRARY=/opt/nwchem/data/libraries/" >> .bash_profile
+echo "module load qe nwchem python" >> ~/.bash_profile
+echo "export NWCHEM_BASIS_LIBRARY=/opt/nwchem/data/libraries/" >> ~/.bash_profile
 ```
 
 ## Option 2: Set up your own Mac
