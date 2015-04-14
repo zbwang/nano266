@@ -57,6 +57,8 @@ export NWCHEM_BASIS_LIBRARY=/opt/nwchem/data/libraries/
 to make sure that QuantumEspresso, NWChem and Python are loaded for you and
 that the libraries are set properly. You can also add these two lines to
 your `.bash_profile` so that it will always be loaded for you when you login.
+Run the following command at the terminal to add settings for QuantumEspresso and NWChem.
+
 
 ## Option 2: Set up your own Mac
 
